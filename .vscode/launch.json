@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Queue1",
+      "request": "launch",
+      "mainClass": "Queue1",
+      "projectName": "DSASigmaJava_c11bb897"
+    },
+    {
+      "type": "java",
+      "name": "Stack1",
+      "request": "launch",
+      "mainClass": "Stack1",
+      "projectName": "DSASigmaJava_c11bb897"
+    },
+    {
+      "type": "java",
+      "name": "Strings",
+      "request": "launch",
+      "mainClass": "Strings",
+      "projectName": "DSASigmaJava_c11bb897"
+    },
+    {
+      "type": "java",
+      "name": "CreateArray",
+      "request": "launch",
+      "mainClass": "Arrays.CreateArray",
+      "projectName": "DSASigmaJava_c11bb897"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/mayan/OneDrive/Desktop/DSASigmaJava",
+      "program": "c:/Users/mayan/OneDrive/Desktop/DSASigmaJava/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
